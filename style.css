@@ -1,15 +1,7 @@
-.my-container{
-    background-color: bisque;
-    height: 100vh;
-}
+.my-cards-container{
+    margin-top: 20px !important;
 
-.block{
-    height: 150px;
-    min-height: 30px;
-    background-color:white;
 }
-
-.row-1{
-    
-    background-color:slategrey;
+.my-card{
+    margin-bottom: 20px !important;
 }
